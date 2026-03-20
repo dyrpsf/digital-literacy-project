@@ -1,5 +1,3 @@
-# Copy and run this to fill your README
-Set-Content README.md @"
 # Digital Literacy Portfolio
 **Name:** Deepak Yadav  
 **Reg No:** 25BCE10935  
