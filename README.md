@@ -2,7 +2,7 @@
 **Name:** Deepak Yadav  
 **Reg No:** 25BCE10935  
 **Branch:** B.Tech Computer Science and Engineering (CSE)  
-**Year:** 1st Year  
+
 
 ## Project Overview
 This repository serves as my Digital Literacy Portfolio for the course CSE0001. As a Student Digital Ambassador, I have curated resources to help peers navigate the digital world safely and professionally.
