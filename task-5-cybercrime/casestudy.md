@@ -11,3 +11,4 @@ UPI (Unified Payments Interface) fraud is a growing concern for students in Indi
 
 **Target & Consequences:**
 College students are often targeted due to their frequent use of digital payments and interest in part-time earnings. The consequences range from immediate financial loss to emotional distress and potential identity theft if personal details were also shared during the interaction.
+
