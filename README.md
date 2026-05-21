@@ -1,7 +1,7 @@
 # Digital Literacy Portfolio
 **Name:** Deepak Yadav  
 **Reg No:** 25BCE10935  
-**Branch:** B.Tech Computer Science and Engineering (CSE)  
+**Branch:** B.Tech Computer Science and Engineering (CSE Core)  
 
 
 ## Project Overview
